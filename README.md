@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+# Date: 06/05/2025
+## Register Number:212223100037
+## Name: Nandyala Malyadri Reddy
 
 ## Problem Title 
 
